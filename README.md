@@ -37,4 +37,4 @@ Just Press Below Button to Deploy!
 </p>
 
 ### Deploy on RAILWAY
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/deploy?template=https://github.com/Kiruthikvarma55/VideoMerge-Bot)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/deploy?template=https://github.com/kiruthikvarma55/videomerge-bot)
