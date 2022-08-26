@@ -35,3 +35,6 @@ Just Press Below Button to Deploy!
 <p align="left">
 <a href="https://instagram.com/AbirHasan2005"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
 </p>
+
+### Deploy on RAILWAY
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/deploy?template=https://github.com/Kiruthikvarma55/VideoMerge-Bot)
